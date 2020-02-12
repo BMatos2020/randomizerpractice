@@ -4,7 +4,9 @@ import React from "react";
 export function Nav() {
 	return (
 		<nav className="navbar navbar-expand-lg ">
-			<a className="navbar-brand" href="#">
+			<a
+				className="navbar-brand text-light"
+				href="https://www.linkedin.com/in/brendamatos">
 				Brenda Matos
 			</a>
 			<button
